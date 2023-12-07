@@ -305,6 +305,7 @@ fieldset
     border-radius: 10px;
     background-color: #F2F3ED;
     border: none;
+    padding: 10px !important;
 }
 .form-title
 {
@@ -433,6 +434,15 @@ fieldset .close
     background-color: #F2F3ED;
 }
 #description-gl
+{
+    width: 600px;
+    background-color: #F2F3ED;
+}
+#dutton-description2
+{
+    background-color: #F2F3ED;
+}
+#description-gl2
 {
     width: 600px;
     background-color: #F2F3ED;
